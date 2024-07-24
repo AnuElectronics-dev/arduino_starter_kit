@@ -1,4 +1,3 @@
-Anu electroncis Arduino StarterKit
 Anu Electronics Starter Kit - Compatible with Arduino Uno R3 and IDE
 ![StarterKit](https://github.com/user-attachments/assets/a71773ab-89fe-4a2d-a7ac-b1ae8da0bb76)
 Overview:
@@ -9,9 +8,9 @@ Suitability:
 
 Perfect for those new to Arduino and those looking to expand their skills, the Anu Electronics Super Starter Kit offers a seamless introduction to electronics and programming.
 
-What's Included:&nbsp;
-
+What's Included:
 Containing 36 meticulously selected components housed in a convenient plastic storage box, the kit also includes a detailed starter guide, downloadable source code, and a parts reference chart for effortless setup and identification.
+![sensor_list](https://github.com/user-attachments/assets/96063c6c-2704-4bd2-8329-6f19ee22a19c)
 
 Parts List / Components Included:
 
@@ -49,8 +48,8 @@ Parts List / Components Included:
 32.plastic Box
 
 Projects Using Kit:
+![1](https://github.com/user-attachments/assets/d50fe0ac-7a4d-49b1-8f13-2066f38f0f7e)
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 
 User Guide and Source Code:
 
@@ -98,6 +97,6 @@ Joystick-controlled Laser Servo System: Directs a laser beam using joystick inpu
 360-degree Camera Setup with Stepper Motor: Rotates a camera to capture panoramic views using precise stepper motor control.
 Tutorials:
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+![3](https://github.com/user-attachments/assets/64704017-9f01-4efe-b1cd-6c76ffb9bb49)
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+
