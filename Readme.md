@@ -8,7 +8,7 @@ The Anu Electronics Super Starter Kit is a top choice among users on leading e-c
 Perfect for those new to Arduino and those looking to expand their skills, the Anu Electronics Super Starter Kit offers a seamless introduction to electronics and programming.
 
 # What's Included:
-Containing 36 meticulously selected components housed in a convenient plastic storage box, the kit also includes a detailed starter guide, downloadable source code, and a parts reference chart for effortless setup and identification.
+Containing 36 meticulously selected components housed in a convenient Eco-Friendly storage box, the kit also includes a detailed starter guide, downloadable source code, and a parts reference chart for effortless setup and identification.
 ![sensor_list](https://github.com/user-attachments/assets/96063c6c-2704-4bd2-8329-6f19ee22a19c)
 
 # Projects Using Kit:
