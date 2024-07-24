@@ -46,17 +46,25 @@ Community Support: Join a thriving community for sharing projects, tips, and tro
 Anu Electronics Starter Kit provides an enriching experience for both beginners and seasoned users, emphasizing ease of use, versatility, quality, affordability, brand reliability, and community engagement.
 
 # Projects:
-Car Parking Sensor: Provides real-time feedback to assist drivers in safe and accurate parking maneuvers.
-Weather Station: Monitors atmospheric conditions such as temperature, humidity, wind speed, and precipitation.
-Counter: Counts and records events or objects passing through a specific point.
-Arduino-based Lie Detector: Uses Arduino technology to detect physiological changes indicative of deception.
-Joystick-based Traffic Light Controller: Controls traffic signals using joystick input for efficient traffic management.
-Height Measurement Device: Measures vertical distances accurately for various applications.
-Smart Home Security: Detects door or window tampering using vibration sensors, alerting homeowners to potential intrusions.
-Home Automation: Automates household tasks and systems for enhanced convenience and efficiency.
-Fire Detector: Detects smoke or fire hazards in residential or commercial environments.
-Automatic Street Light Controller: Manages street lighting based on environmental conditions or time schedules.
-Joystick-controlled Laser Servo System: Directs a laser beam using joystick input, controlled by Arduino technology.
-360-degree Camera Setup with Stepper Motor: Rotates a camera to capture panoramic views using precise stepper motor control.
+ ## 1.Building an Automatic Dispenser
+ ## 2.Building an Automatic Street Light Controller 
+ ## 3.Controlling a Stepper Motor with an IR Remote 
+ ## 4.Building a Car Parking Sensor 
+ ## 5.Building a 7-Segment Display Counter
+ ## 6.Building a Fire Detection System 
+ ## 7.Building an Ultrasonic Height Measurement System
+ ## 8.Building a Simple Home Automation System
+ ## 9.RGB LED Control with IR Remote
+ ## 10.Joystick-Based Traffic Light Controller
+ ## 11.Joystick-Controlled Servo Motor
+ ## 12.LED Brightness Control with Potentiometer
+ ## 13.Lie Detector with LEDs
+ ## 14.RGB LED Brightness Control with Potentiometer and Button
+ ## 15.Servo Motor Control with IR Remote
+ ## 16.Servo Motor Speed Control with Potentiometer
+ ## 17.Smart Home Security System with Vibration Sensor
+ ## 18.Stepper Motor Speed Control with Potentiometer
+ ## 19.Touchless Doorbell System
+ ## 20.Weather Station with DHT11 and I2C LCD
 # Tutorials:
 ![3](https://github.com/user-attachments/assets/64704017-9f01-4efe-b1cd-6c76ffb9bb49)
