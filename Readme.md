@@ -68,3 +68,6 @@ Anu Electronics Starter Kit provides an enriching experience for both beginners 
  ## 20.Weather Station with DHT11 and I2C LCD
 # Tutorials:
 ![3](https://github.com/user-attachments/assets/64704017-9f01-4efe-b1cd-6c76ffb9bb49)
+# Starter Kit Book
+![image](https://github.com/user-attachments/assets/e71cc3d2-1b9b-414f-8651-c07d54a37a10)
+
