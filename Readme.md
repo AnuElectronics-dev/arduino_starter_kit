@@ -1,6 +1,6 @@
-#Anu Electronics Starter Kit - Compatible with Arduino Uno R3 and IDE
+#Anu Electronics Starter Kit - Compatible with Arduino Uno R3 and IDE#
 ![StarterKit](https://github.com/user-attachments/assets/a71773ab-89fe-4a2d-a7ac-b1ae8da0bb76)
-Overview:
+#Overview:#
 
 The Anu Electronics Super Starter Kit is a top choice among users on leading e-commerce platforms such as Amazon, Flipkart, and Jiomart, consistently earning high ratings. This comprehensive kit features our own high-quality Arduino-compatible board, designed with both beginners and intermediate users in mind.
 
