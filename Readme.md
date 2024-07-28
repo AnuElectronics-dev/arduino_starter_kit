@@ -9,7 +9,9 @@ Perfect for those new to Arduino and those looking to expand their skills, the A
 
 # What's Included:
 Containing 36 meticulously selected components housed in a convenient Eco-Friendly storage box, the kit also includes a detailed starter guide, downloadable source code, and a parts reference chart for effortless setup and identification.
-![sensor_list](https://github.com/user-attachments/assets/96063c6c-2704-4bd2-8329-6f19ee22a19c)
+![UNO R3](https://github.com/user-attachments/assets/2cccdef2-c958-4f4d-a16a-33399a45930d)
+
+
 
 # Projects Using Kit:
 ![1](https://github.com/user-attachments/assets/d50fe0ac-7a4d-49b1-8f13-2066f38f0f7e)
